@@ -55,7 +55,7 @@ title（鼠标移上去显示完整内容）
     <li>篮球</li>
 </ol>
 ~~~
-![有序列表页面展示](./images/ol.png)
+![有序列表页面展示](https://github.com/Amber-Tian/blog-test/blob/master/images/ol.png)
 
 ## ul + li —— 无序列表和列表项  
 ~~~HTML
@@ -66,7 +66,7 @@ title（鼠标移上去显示完整内容）
     <li>篮球</li>
 </ul>
 ~~~
-![无序列表页面展示](./images/ul.png)
+![无序列表页面展示](https://github.com/Amber-Tian/blog-test/blob/master/images/ul.png)
 
 ## dl + dt + dd —— 描述列表
 ~~~HTML
