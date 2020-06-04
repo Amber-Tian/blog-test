@@ -21,11 +21,11 @@ functioan () {
 }
 ~~~
 
-*斜体* or _斜体_
-**加粗** or __加粗__
+*斜体* or _斜体_  
+**加粗** or __加粗__  
 ***斜体加粗*** or ___斜体加粗___
 
-[链接到百度]（https://baidu.com/）
+[链接到百度](https://baidu.com/)
 [个人主页][person]
 
 [person]: amber-tian.github.io
