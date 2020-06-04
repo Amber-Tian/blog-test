@@ -1,4 +1,5 @@
 # 我是田梁
+![搞张图片](http://a1.att.hudong.com/05/00/01300000194285122188000535877.jpg)
 
 ## 我的爱好是：
 
@@ -19,3 +20,12 @@ functioan () {
   console.log("加油！");
 }
 ~~~
+
+*斜体* or _斜体_
+**加粗** or __加粗__
+***斜体加粗*** or ___斜体加粗___
+
+[链接到百度]（https://baidu.com/）
+[个人主页][person]
+
+[person]: amber-tian.github.io
