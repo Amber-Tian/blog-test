@@ -1,6 +1,8 @@
 # 我是田梁
-![搞张图片](http://a1.att.hudong.com/05/00/01300000194285122188000535877.jpg)
+~~~html
+<img src="http://a1.att.hudong.com/05/00/01300000194285122188000535877.jpg" alt="搞张图片" width="100px" />
 
+~~~
 ## 我的爱好是：
 
 1. 玩游戏
@@ -28,4 +30,4 @@ functioan () {
 [链接到百度](https://baidu.com/)
 [个人主页][person]
 
-[person]: amber-tian.github.io
+[person]: https://amber-tian.github.io
