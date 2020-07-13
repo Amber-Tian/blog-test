@@ -6,7 +6,7 @@
 
 事件流描述的是从页面中接受事件的顺序，也可以理解为事件在页面中传播的顺序
 
-<img src="./images/event.png" alt="事件流示意图" height="200px">
+<img src="https://github.com/Amber-Tian/blog-test/tree/master/images/event.png" alt="事件流示意图" height="200px">
 
 这两个事件流分别的是IE公司和网景公司提出来的，冒泡事件流支持的浏览器更多。 
 
@@ -15,7 +15,7 @@
 
 ### DOM事件捕获的流程示意图（冒泡相反）
 
-<img src="./images/catch.png" alt="事件捕获示意图" height="200px">
+<img src="https://github.com/Amber-Tian/blog-test/tree/master/images/catch.png" alt="事件捕获示意图" height="200px">
 
 ### 语法
 
